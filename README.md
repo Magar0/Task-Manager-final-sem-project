@@ -14,10 +14,6 @@
 6. 📡 [API Documentation](#api)
 6. 🗃️ [Database Schema](#schema)
 
-##  <a name="live"> 🟢Live Demo</a>
-- Frontend: [Vercel App](https://todo-using-render-postgres-node-js-and-react-js.vercel.app/)
-- Backend API: [Render Service](https://todo-using-render-postgres-node-js-and.onrender.com/)
-- Yotube demo: https://youtu.be/2K0u2GlOG5Y
   
 ## 📌  <a name="overview"> Project Overview </a>
 A secure **full-stack task management system** where users can:
