@@ -6,12 +6,11 @@
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🟢 [Live](#live)
-2. 🤖 [Project Overview](#overview)
-3. 🔋 [Features](#features)
-4. ⚙️ [Tech Stack](#tech-stack)
-5. 🤸 [Quick Start](#quick-start)
-6. 📡 [API Documentation](#api)
+1. 🤖 [Project Overview](#overview)
+2. 🔋 [Features](#features)
+3. ⚙️ [Tech Stack](#tech-stack)
+4. 🤸 [Quick Start](#quick-start)
+5. 📡 [API Documentation](#api)
 6. 🗃️ [Database Schema](#schema)
 
   
